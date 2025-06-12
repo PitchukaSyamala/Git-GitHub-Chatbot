@@ -12,14 +12,14 @@ Features:
    * ✅ Easily extendable by updating the dataset.
 
 Requirements to Run the Project: 
-  #• Python 3.x . 
-  #• Required Libraries: pip install streamlit pandas nltk .
-  #• NLTK Downloads: The following NLTK resources are downloaded during runtime: punkt o stopwords o wordnet averaged_perceptron_tagger
+  * Python 3.x . 
+  * Required Libraries: pip install streamlit pandas nltk .
+  * NLTK Downloads: The following NLTK resources are downloaded during runtime: punkt o stopwords o wordnet averaged_perceptron_tagger
 
 How to Run the Project:
-   # Step 1: Place your CSV Dataset Ensure your git_github_qa_dataset.csv is in the same folder as your Python script. It must contain two columns: Question and               Answer. 
-   # Step 2: Run the Chatbot streamlit run app.py 
-   # Step 3: Interact with the Chatbot Once launched in your browser: 
+   * Step 1: Place your CSV Dataset Ensure your git_github_qa_dataset.csv is in the same folder as your Python script. It must contain two columns: Question and               Answer. 
+   * Step 2: Run the Chatbot streamlit run app.py 
+   * Step 3: Interact with the Chatbot Once launched in your browser: 
       • Enter a question about Git/GitHub in the textbox . 
       • Get a relevant answer based on the dataset .
 
