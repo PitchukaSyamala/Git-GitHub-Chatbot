@@ -1,0 +1,151 @@
+Question,Answer
+What is Git?,Git is a distributed version control system for tracking changes in source code.
+What is GitHub?,GitHub is a platform for hosting and collaborating on code using Git.
+How do I install Git?,You can download Git from git-scm.com and follow the installation instructions.
+What is a repository?,"A repository is a storage space for your project, containing all files and history."
+How do I create a Git repository?,Use `git init` in your project directory to create a new Git repository.
+How do I check the status of my Git repository?,Use `git status` to see current changes and staging info.
+What is a Git commit?,A commit saves changes to the local repository with a message describing the update.
+How do I commit changes in Git?,Use `git commit -m 'your message'` after staging your changes.
+What is a branch in Git?,A branch is a parallel version of a repository to work on different features.
+How do I create a new Git branch?,Use `git branch branch_name` to create a new branch.
+What is merging in Git?,Merging combines changes from different branches into one.
+How do I merge a branch in Git?,Use `git merge branch_name` to merge into the current branch.
+What is the use of `git pull`?,`git pull` fetches and merges changes from a remote repository.
+How do I resolve merge conflicts in Git?,"Edit the conflicting files manually, then commit the resolved changes."
+How do I revert a Git commit?,Use `git revert commit_id` to undo a specific commit.
+What is `git log` used for?,`git log` shows a history of commits in the repository.
+What is the difference between Git and GitHub?,Git is a tool; GitHub is a platform for using Git collaboratively.
+How do I connect a local Git repo to GitHub?,Use `git remote add origin <url>` to connect to a GitHub repo.
+What is SSH in GitHub?,SSH allows you to securely connect to GitHub without entering credentials each time.
+How do I generate an SSH key for GitHub?,Use `ssh-keygen` and add the public key to your GitHub account.
+How do I push code to GitHub?,Use `git push origin main` to upload your code to GitHub.
+What is a pull request?,A pull request is a GitHub feature to propose changes and review code.
+What is a README file?,"A README explains your project: what it does, how to use it, and more."
+What is a .gitignore file?,It tells Git which files or folders to ignore in a repository.
+How do I fork a repository on GitHub?,Click the 'Fork' button on a GitHub repo to copy it to your account.
+What is a Git tag?,"Tags mark specific points in history as important, often for releases."
+What is Git?,Git is a distributed version control system for tracking changes in source code.
+What is GitHub?,GitHub is a platform for hosting and collaborating on code using Git.
+How do I install Git?,You can download Git from git-scm.com and follow the installation instructions.
+What is a repository?,"A repository is a storage space for your project, containing all files and history."
+How do I create a Git repository?,Use `git init` in your project directory to create a new Git repository.
+How do I check the status of my Git repository?,Use `git status` to see current changes and staging info.
+What is a Git commit?,A commit saves changes to the local repository with a message describing the update.
+How do I commit changes in Git?,Use `git commit -m 'your message'` after staging your changes.
+What is a branch in Git?,A branch is a parallel version of a repository to work on different features.
+How do I create a new Git branch?,Use `git branch branch_name` to create a new branch.
+What is merging in Git?,Merging combines changes from different branches into one.
+How do I merge a branch in Git?,Use `git merge branch_name` to merge into the current branch.
+What is the use of `git pull`?,`git pull` fetches and merges changes from a remote repository.
+How do I resolve merge conflicts in Git?,"Edit the conflicting files manually, then commit the resolved changes."
+How do I revert a Git commit?,Use `git revert commit_id` to undo a specific commit.
+What is `git log` used for?,`git log` shows a history of commits in the repository.
+What is the difference between Git and GitHub?,Git is a tool; GitHub is a platform for using Git collaboratively.
+How do I connect a local Git repo to GitHub?,Use `git remote add origin <url>` to connect to a GitHub repo.
+What is SSH in GitHub?,SSH allows you to securely connect to GitHub without entering credentials each time.
+How do I generate an SSH key for GitHub?,Use `ssh-keygen` and add the public key to your GitHub account.
+How do I push code to GitHub?,Use `git push origin main` to upload your code to GitHub.
+What is a pull request?,A pull request is a GitHub feature to propose changes and review code.
+What is a README file?,"A README explains your project: what it does, how to use it, and more."
+What is a .gitignore file?,It tells Git which files or folders to ignore in a repository.
+How do I fork a repository on GitHub?,Click the 'Fork' button on a GitHub repo to copy it to your account.
+What is a Git tag?,"Tags mark specific points in history as important, often for releases."
+What is Git?,Git is a distributed version control system for tracking changes in source code.
+What is GitHub?,GitHub is a platform for hosting and collaborating on code using Git.
+How do I install Git?,You can download Git from git-scm.com and follow the installation instructions.
+What is a repository?,"A repository is a storage space for your project, containing all files and history."
+How do I create a Git repository?,Use `git init` in your project directory to create a new Git repository.
+How do I check the status of my Git repository?,Use `git status` to see current changes and staging info.
+What is a Git commit?,A commit saves changes to the local repository with a message describing the update.
+How do I commit changes in Git?,Use `git commit -m 'your message'` after staging your changes.
+What is a branch in Git?,A branch is a parallel version of a repository to work on different features.
+How do I create a new Git branch?,Use `git branch branch_name` to create a new branch.
+What is merging in Git?,Merging combines changes from different branches into one.
+How do I merge a branch in Git?,Use `git merge branch_name` to merge into the current branch.
+What is the use of `git pull`?,`git pull` fetches and merges changes from a remote repository.
+How do I resolve merge conflicts in Git?,"Edit the conflicting files manually, then commit the resolved changes."
+How do I revert a Git commit?,Use `git revert commit_id` to undo a specific commit.
+What is `git log` used for?,`git log` shows a history of commits in the repository.
+What is the difference between Git and GitHub?,Git is a tool; GitHub is a platform for using Git collaboratively.
+How do I connect a local Git repo to GitHub?,Use `git remote add origin <url>` to connect to a GitHub repo.
+What is SSH in GitHub?,SSH allows you to securely connect to GitHub without entering credentials each time.
+How do I generate an SSH key for GitHub?,Use `ssh-keygen` and add the public key to your GitHub account.
+How do I push code to GitHub?,Use `git push origin main` to upload your code to GitHub.
+What is a pull request?,A pull request is a GitHub feature to propose changes and review code.
+What is a README file?,"A README explains your project: what it does, how to use it, and more."
+What is a .gitignore file?,It tells Git which files or folders to ignore in a repository.
+How do I fork a repository on GitHub?,Click the 'Fork' button on a GitHub repo to copy it to your account.
+What is a Git tag?,"Tags mark specific points in history as important, often for releases."
+What is Git?,Git is a distributed version control system for tracking changes in source code.
+What is GitHub?,GitHub is a platform for hosting and collaborating on code using Git.
+How do I install Git?,You can download Git from git-scm.com and follow the installation instructions.
+What is a repository?,"A repository is a storage space for your project, containing all files and history."
+How do I create a Git repository?,Use `git init` in your project directory to create a new Git repository.
+How do I check the status of my Git repository?,Use `git status` to see current changes and staging info.
+What is a Git commit?,A commit saves changes to the local repository with a message describing the update.
+How do I commit changes in Git?,Use `git commit -m 'your message'` after staging your changes.
+What is a branch in Git?,A branch is a parallel version of a repository to work on different features.
+How do I create a new Git branch?,Use `git branch branch_name` to create a new branch.
+What is merging in Git?,Merging combines changes from different branches into one.
+How do I merge a branch in Git?,Use `git merge branch_name` to merge into the current branch.
+What is the use of `git pull`?,`git pull` fetches and merges changes from a remote repository.
+How do I resolve merge conflicts in Git?,"Edit the conflicting files manually, then commit the resolved changes."
+How do I revert a Git commit?,Use `git revert commit_id` to undo a specific commit.
+What is `git log` used for?,`git log` shows a history of commits in the repository.
+What is the difference between Git and GitHub?,Git is a tool; GitHub is a platform for using Git collaboratively.
+How do I connect a local Git repo to GitHub?,Use `git remote add origin <url>` to connect to a GitHub repo.
+What is SSH in GitHub?,SSH allows you to securely connect to GitHub without entering credentials each time.
+How do I generate an SSH key for GitHub?,Use `ssh-keygen` and add the public key to your GitHub account.
+How do I push code to GitHub?,Use `git push origin main` to upload your code to GitHub.
+What is a pull request?,A pull request is a GitHub feature to propose changes and review code.
+What is a README file?,"A README explains your project: what it does, how to use it, and more."
+What is a .gitignore file?,It tells Git which files or folders to ignore in a repository.
+How do I fork a repository on GitHub?,Click the 'Fork' button on a GitHub repo to copy it to your account.
+What is a Git tag?,"Tags mark specific points in history as important, often for releases."
+What is Git?,Git is a distributed version control system for tracking changes in source code.
+What is GitHub?,GitHub is a platform for hosting and collaborating on code using Git.
+How do I install Git?,You can download Git from git-scm.com and follow the installation instructions.
+What is a repository?,"A repository is a storage space for your project, containing all files and history."
+How do I create a Git repository?,Use `git init` in your project directory to create a new Git repository.
+How do I check the status of my Git repository?,Use `git status` to see current changes and staging info.
+What is a Git commit?,A commit saves changes to the local repository with a message describing the update.
+How do I commit changes in Git?,Use `git commit -m 'your message'` after staging your changes.
+What is a branch in Git?,A branch is a parallel version of a repository to work on different features.
+How do I create a new Git branch?,Use `git branch branch_name` to create a new branch.
+What is merging in Git?,Merging combines changes from different branches into one.
+How do I merge a branch in Git?,Use `git merge branch_name` to merge into the current branch.
+What is the use of `git pull`?,`git pull` fetches and merges changes from a remote repository.
+How do I resolve merge conflicts in Git?,"Edit the conflicting files manually, then commit the resolved changes."
+How do I revert a Git commit?,Use `git revert commit_id` to undo a specific commit.
+What is `git log` used for?,`git log` shows a history of commits in the repository.
+What is the difference between Git and GitHub?,Git is a tool; GitHub is a platform for using Git collaboratively.
+How do I connect a local Git repo to GitHub?,Use `git remote add origin <url>` to connect to a GitHub repo.
+What is SSH in GitHub?,SSH allows you to securely connect to GitHub without entering credentials each time.
+How do I generate an SSH key for GitHub?,Use `ssh-keygen` and add the public key to your GitHub account.
+How do I push code to GitHub?,Use `git push origin main` to upload your code to GitHub.
+What is a pull request?,A pull request is a GitHub feature to propose changes and review code.
+What is a README file?,"A README explains your project: what it does, how to use it, and more."
+What is a .gitignore file?,It tells Git which files or folders to ignore in a repository.
+How do I fork a repository on GitHub?,Click the 'Fork' button on a GitHub repo to copy it to your account.
+What is a Git tag?,"Tags mark specific points in history as important, often for releases."
+What is Git?,Git is a distributed version control system for tracking changes in source code.
+What is GitHub?,GitHub is a platform for hosting and collaborating on code using Git.
+How do I install Git?,You can download Git from git-scm.com and follow the installation instructions.
+What is a repository?,"A repository is a storage space for your project, containing all files and history."
+How do I create a Git repository?,Use `git init` in your project directory to create a new Git repository.
+How do I check the status of my Git repository?,Use `git status` to see current changes and staging info.
+What is a Git commit?,A commit saves changes to the local repository with a message describing the update.
+How do I commit changes in Git?,Use `git commit -m 'your message'` after staging your changes.
+What is a branch in Git?,A branch is a parallel version of a repository to work on different features.
+How do I create a new Git branch?,Use `git branch branch_name` to create a new branch.
+What is merging in Git?,Merging combines changes from different branches into one.
+How do I merge a branch in Git?,Use `git merge branch_name` to merge into the current branch.
+What is the use of `git pull`?,`git pull` fetches and merges changes from a remote repository.
+How do I resolve merge conflicts in Git?,"Edit the conflicting files manually, then commit the resolved changes."
+How do I revert a Git commit?,Use `git revert commit_id` to undo a specific commit.
+What is `git log` used for?,`git log` shows a history of commits in the repository.
+What is the difference between Git and GitHub?,Git is a tool; GitHub is a platform for using Git collaboratively.
+How do I connect a local Git repo to GitHub?,Use `git remote add origin <url>` to connect to a GitHub repo.
+What is SSH in GitHub?,SSH allows you to securely connect to GitHub without entering credentials each time.
+How do I generate an SSH key for GitHub?,Use `ssh-keygen` and add the public key to your GitHub account.
