@@ -5,11 +5,11 @@ A Streamlit app that answers common Git and GitHub questions using a pre-loaded 
 The Git & GitHub Chatbot is an AI-powered assistant designed to provide instant answers to frequently asked questions about Git and GitHub. Built using NLTK for Natural Language Processing and Streamlit for a web-based interface, this chatbot serves as a friendly guide for new users and beginners, helping them quickly grasp important commands, concepts, and workflows in Git and GitHub—without the need to sift through long and complex documentation. Whether you're just starting out with version control or trying to remember a specific Git command, this chatbot is here to support your learning journey.
 
 Features: 
-   # ✅ Answers common questions related to Git and GitHub. 
-   #  ✅ Uses NLTK for text preprocessing (tokenization, stopword removal, lemmatization, POS tagging) . 
-   # ✅ Employs a CSV-based Q&A dataset to handle dynamic queries. 
-   # ✅ Built with Streamlit for a smooth and responsive UI.
-   # ✅ Easily extendable by updating the dataset.
+   * ✅ Answers common questions related to Git and GitHub. 
+   *  ✅ Uses NLTK for text preprocessing (tokenization, stopword removal, lemmatization, POS tagging) . 
+   * ✅ Employs a CSV-based Q&A dataset to handle dynamic queries. 
+   * ✅ Built with Streamlit for a smooth and responsive UI.
+   * ✅ Easily extendable by updating the dataset.
 
 Requirements to Run the Project: 
   #• Python 3.x . 
