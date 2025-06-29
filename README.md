@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/6a664cf1-4a70-4eb9-a2b7-b6caec008144)## Git-GitHub-Chatbot
-Chatbot-for-Git-GithubDetails
+# Chatbot-for-Git-GithubDetails
 A Streamlit app that answers common Git and GitHub questions using a pre-loaded dataset. 
 ## Project Explanation: 
 The Git & GitHub Chatbot is an AI-powered assistant designed to provide instant answers to frequently asked questions about Git and GitHub. Built using NLTK for Natural Language Processing and Streamlit for a web-based interface, this chatbot serves as a friendly guide for new users and beginners, helping them quickly grasp important commands, concepts, and workflows in Git and GitHub—without the need to sift through long and complex documentation. Whether you're just starting out with version control or trying to remember a specific Git command, this chatbot is here to support your learning journey.
